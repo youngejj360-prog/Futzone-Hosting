@@ -9,8 +9,7 @@
 //
 // IMPORTANT: Put TOKEN/CLIENT_ID/GUILD_ID in .env, NOT in this file.
 // Requires: npm i discord.js better-sqlite3 dotenv
-require("dotenv").config();
-client.login(process.env.TOKEN);
+
 const {
   Client,
   GatewayIntentBits,
