@@ -2101,20 +2101,35 @@ async function sendRuleBook() {
             .setColor("#0f172a")
             .setTitle("⚽ Futzone | Official Server Rules")
             .setDescription(`
-**1. Racism** - 24h Mute.
-**2. Malicious Racism** - 1 Week Mute / Ban.
-**3. Pinging to Annoy** - 24h Mute.
-**4. Bypassing Wick** - 24h Mute to 1 Week (Depends on severity).
-**5. Staff Pings** - Only ping if you need help. If they are in chat, you can ping them.
-**6. Swearing** - Allowed, but abusing/insulting people results in a 1 Week Ban.
-**7. English Only** - All conversations must be in English for moderation.
-**8. Bot Usage** - Do **NOT** use Dexbot, Soccer Guru, or other game bots outside of their designated channels.
-**9. Football Toxicity** - Respect all clubs/players. Toxic trolling or excessive abuse results in a mute.
+1. **Racism**
+• 24h mute
+2. **Malicious Racism**
+• Admin discretion 
+3. **Pinging to Annoy**
+• 24h mute 
+4. ** Bypassing Wick/Mute**
+• mute matching your main account
+5. **Staff Pings**
+• Only ping if you need help. If they are in chat, you may ping them
+6. **Swearing** 
+• Allowed, but abusing/insulting people, Admin discretion 
+7. **English Only**
+• All conversations must be in English unless using the international chat
+8. **Bot Useage**
+• Do **NOT** use dexbot, soccer guru, or other game bots outside of their designated channel
+9. **Football Toxicity**
+• Respect all clubs/players. Toxic trolling or excessive abuse results in a mute based on mod discretion 
+10. **Misusing Role Pings** 
+• Pinging a role for something other than its intended use can result in a 28d mute
+11. **Personal Info Leaking**
+• Any data (facial images, accounts, etc) pertaining to yourself/someone else should not be shared in a general chat, dms exist for a reason. Mod/Admin discretion mutes 
+• If you suspect someone leaking personal information of someone else maliciously please speak up
+12. **Undisclosed Ads**
+• Illegal in many places, most commonly are gambling promos. Promoting gambling is strictly prohibited here and “flexing” a betting app can be considered as an undisclosed ad, mute upon admin discretion 
 
----
+—-
 **Appeals:**
-If you feel you were unfairly punished, you can fight your case with:
-**Alfie** or **Snape**
+If you feel you were unfairly punished, you can dispute your case with: **Alfie** or **Thom** or open a **Ticket in the support server**
             `)
             .setFooter({ text: "Futzone Rules •" })
             .setTimestamp();
