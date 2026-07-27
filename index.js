@@ -55,7 +55,7 @@ const OWNER_ROLE_ID = "1343225887835033703";
 const BOT_OWNER_USER_ID = "596428982694707240";
 
 // FD perms role id (special perms role) — for say/dm/update/result, etc
-const FD_PERMS_ROLE_ID = "1338618264430968934";
+const FD_PERMS_ROLE_ID = "1338618264430968934, 1184739489315299339";
 
 // Trial admin role id (for vouch perms via isFDPerms)
 const TRIAL_ADMIN_ROLE_ID = "1355596428495556759";
