@@ -65,6 +65,7 @@ const MATCHBET_CHANNEL_ID = "1397281661753753671";
 // Staff list roles (used only for !staff and /staff)
 const ROLE_OWNER = "1343225887835033703";
 const ROLE_CO_OWNER = "1315050307033632859";
+const ROLE_FD_PERMS = "1338618264430968934";
 const ROLE_HEAD_ADMIN = "1268228494207488132";
 const ROLE_ADMIN = "1341348205283119114";
 const ROLE_TRIAL_ADMIN = "1355596428495556759";
@@ -626,7 +627,6 @@ async function safeReply(interaction, payload) {
 const STAFF_LIST = [
   { title: "OWNER :", roleId: ROLE_OWNER },
   { title: "CO OWNER :", roleId: ROLE_CO_OWNER },
-  { title: "FOOTBALL DEX PERMS :", roleId: ROLE_FD_PERMS },
   { title: "HEAD ADMIN :", roleId: ROLE_HEAD_ADMIN },
   { title: "ADMIN :", roleId: ROLE_ADMIN },
   { title: "TRIAL ADMIN :", roleId: ROLE_TRIAL_ADMIN },
