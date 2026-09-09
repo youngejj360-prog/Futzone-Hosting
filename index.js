@@ -56,8 +56,6 @@ const BOT_OWNER_USER_ID = "596428982694707240";
 
 // FD perms role id (special perms role) — for say/dm/update/result, etc
 const FD_PERMS_ROLE_ID = "1338618264430968934, 1384964222550544394";
-// FD perms role id (special perms role) — for say/dm/update/result, etc
-const FD_PERMS_ROLE_ID = "11384964222550544394";
 // Trial admin role id (for vouch perms via isFDPerms)
 const TRIAL_ADMIN_ROLE_ID = "1355596428495556759";
 
@@ -67,7 +65,6 @@ const MATCHBET_CHANNEL_ID = "1397281661753753671";
 // Staff list roles (used only for !staff and /staff)
 const ROLE_OWNER = "1343225887835033703";
 const ROLE_CO_OWNER = "1315050307033632859";
-const ROLE_FD_PERMS = "1338618264430968934";
 const ROLE_HEAD_ADMIN = "1268228494207488132";
 const ROLE_ADMIN = "1341348205283119114";
 const ROLE_TRIAL_ADMIN = "1355596428495556759";
